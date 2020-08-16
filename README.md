@@ -2,6 +2,8 @@
 
 Built for the Hack'20 hackathon.
 
+[Hackathon Submission](https://devpost.com/software/hack20-webapp)
+
 ### Contributors:
 
 - [Abhay Deshpande](https://github.com/abhaybd)
