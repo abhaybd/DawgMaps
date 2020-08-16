@@ -8,7 +8,7 @@ Built for the Hack'20 hackathon.
 
 - [Abhay Deshpande](https://github.com/abhaybd)
 
-- [Cindy Zhou](https://github.com/x9du)
+- [Cindy Zou](https://github.com/x9du)
 - [Yiyang (Ian) Wang](https://github.com/iwangy)
 - [Abhinav Bandari](https://github.com/abx393)
 - [Karthikeya Vemuri](https://github.com/Karkeys360)
