@@ -4,6 +4,10 @@ Built for the Hack'20 hackathon.
 
 [Hackathon Submission](https://devpost.com/software/hack20-webapp)
 
+[Original webapp repo](https://github.com/abhaybd/Hack20-Webapp)
+
+[Original android app repo](https://github.com/abx393/HeatMap)
+
 ### Contributors:
 
 - [Abhay Deshpande](https://github.com/abhaybd)
