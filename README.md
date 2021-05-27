@@ -25,7 +25,7 @@ We were inspired by efforts to improve student safety and contact tracing on cam
 
 In response to the COVID-19 pandemic and the growing need for responsible social distancing, DawgMaps provides users with real-time information about large gatherings and crowds in their area to help users avoid them. We designed a native Android mobile app to crowdsource real time location data, compile it into a cloud database, and display it on a webapp that generates population density heat maps. The native app displays the webapp and collects all the other information in the background allowing users access to the heatmaps on any platform. Additionally, the native app has functionality that detects when a user enters a sufficiently dense crowd. When that happens, the app issues a notification to remind the user to wear a mask.
 
-## How we built it
+## How it was built
 
 We programmed the native app in Java using Android Studio. We used React and the React Google Maps API for the heatmap web app. We used Firebase Firestore to store location data. Fast and efficient nearby user lookup is accomplished via variable-precision geohashing. This allows us to quickly and accurately find users near a location at a specified precision.
 
